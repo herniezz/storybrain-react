@@ -1,0 +1,189 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 300px;
+  align-items: flex-start;
+}
+.rectangle23 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #3e5818;
+}
+.podajSwojMail {
+  color: #fff;
+  font-size: 15px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 28.4375%;
+  right: 61.6667%;
+  top: 42%;
+  bottom: 49.3783%;
+  flex-direction: column;
+}
+.rectangle32 {
+  position: absolute;
+  left: 27.9167%;
+  right: 43.9005%;
+  top: 37.9217%;
+  bottom: 45.6972%;
+  outline: solid 2px #fff;
+  outline-offset: -2px;
+  border-radius: 3px;
+}
+.rectangle33 {
+  position: absolute;
+  left: 49.4271%;
+  right: 43.9063%;
+  top: 38.3333%;
+  bottom: 45.6667%;
+  background-color: #fff;
+}
+.ok {
+  color: #224f34;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50.7813%;
+  right: 47.2396%;
+  top: 42%;
+  bottom: 49.3333%;
+  flex-direction: column;
+}
+.zostanmyWKontakcie {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Roboto Slab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.9167%;
+  right: 58.2523%;
+  top: 18.6667%;
+  bottom: 72.9991%;
+  flex-direction: column;
+}
+.socialMedia {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Roboto Slab, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 10.2083%;
+  right: 81.9792%;
+  top: 42%;
+  bottom: 48.3333%;
+  flex-direction: column;
+}
+.zgody {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 73.0324%;
+  right: 23.2639%;
+  top: 83.2479%;
+  bottom: 11.6239%;
+  flex-direction: column;
+}
+.prywatnosc {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 78.397%;
+  right: 14.6586%;
+  top: 83.2479%;
+  bottom: 11.6239%;
+  flex-direction: column;
+}
+.ciastka {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  position: absolute;
+  left: 85.7581%;
+  right: 9.6701%;
+  top: 83.2479%;
+  bottom: 11.6239%;
+  flex-direction: column;
+}
+.youCan {
+  color: #fff;
+  font-size: 50px;
+  font-family: Elephant, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.4792%;
+  right: 78.2523%;
+  top: 13.3333%;
+  bottom: 76.2393%;
+  flex-direction: column;
+}
+.line7 {
+  position: absolute;
+  left: 10.1852%;
+  right: 28.9931%;
+  top: 85.1453%;
+  bottom: 14.188%;
+  max-width: 100%;
+  max-height: 100%;
+  outline: solid 1px #fff;
+}
+.instagram {
+  position: absolute;
+  left: 18.3449%;
+  right: 79.456%;
+  top: 40.6838%;
+  bottom: 52.8205%;
+  overflow: hidden;
+}
+.facebook {
+  position: absolute;
+  left: 314px;
+  top: 175px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/facebook.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.instagramCircle {
+  position: absolute;
+  left: 253px;
+  top: 175px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/instagramCircle.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.youTube {
+  position: absolute;
+  left: 192px;
+  top: 175px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/youTube.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

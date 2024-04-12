@@ -1,0 +1,107 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 64px;
+  align-items: flex-start;
+  background-color: #3e5818;
+  overflow: hidden;
+}
+.youCan {
+  color: #fff;
+  font-size: 40px;
+  font-family: Elephant, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 8px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.stronaGOwna {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1157px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.metody {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1375px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.oferta {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1509px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.wYDARZENIA {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1621px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.kontakt {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1792px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.pexelsHeitorVerdi76657891 {
+  position: absolute;
+  left: 586px;
+  top: 2778px;
+  width: 317px;
+  height: 376px;
+  background-image:/* webpackIgnore: true */ url('assets/pexelsHeitorVerdi766578912.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
